@@ -1,6 +1,6 @@
 # Prisma Day 2021 Workshop
 
-This is the sample app built for Jed's Prisma Day 2021 Workshop.
+This is the sample app built for Jed's Prisma Day 2021 Workshop Woot!gt
 
 It's both the front and back-end for a Blog built with Prisma, KeystoneJS, GraphQL, Next.js and Tailwind.
 
