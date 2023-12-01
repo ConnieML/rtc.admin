@@ -1,3 +1,7 @@
+# Current Status
+
+This repository has been archived due to no longer having relevant use in the current state of Connie.
+
 # Prisma Day 2021 Workshop
 
 This is the sample app built for Jed's Prisma Day 2021 Workshop Woot!gt
